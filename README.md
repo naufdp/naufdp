@@ -10,19 +10,19 @@
 
 ###
 
-<h1 data-importer="text" align="center">Hey There. 👋</h1>
+<h1 data-importer="text" align="center">Hey There 👋</h1>
 
 ###
 
-<h3 data-importer="text" align="left">👩‍💻  About Me:</h3>
+<h3 data-importer="text" align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p data-importer="text" align="left">I'm Naufal Arrahman Dandri Pranata from Indonesia <br>and I'm a Python Learner.<br><br>- 📚 I'm currently learning Python.<br>- 📫 How to reach me: naufdp@gmail.com</p>
+<p data-importer="text" align="left">I'm Naufal Arrahman Dandri Pranata from Indonesia <br>and I'm a Python Learner<br><br>- 📚 I'm currently learning Python<br>- 📫 How to reach me: naufdp@gmail.com</p>
 
 ###
 
-<h3 data-importer="text" align="left">🛠 Language and tools:</h3>
+<h3 data-importer="text" align="left">🛠 Language and tools</h3>
 
 ###
 
